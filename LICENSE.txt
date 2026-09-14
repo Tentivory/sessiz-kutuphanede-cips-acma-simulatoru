@@ -1,0 +1,15 @@
+TENTI KAMU UTANC LISANSI (TKUL-1.0)
+
+Bu yazilimi kopyalayabilir, calistirabilir, fork'layabilir ve
+kutuphanede gercek cips acmamak sartiyla sergileyebilirsiniz.
+
+YASAKLAR:
+- Yazilimi ciddi bir akademik kaynak olarak gostermek
+- Yazilimi bir parti programina koymak
+- Yazilimi patatesle iliskilendirmek
+
+GARANTI YOKTUR. UTANC VARDIR.
+
+Imza: Kayyum Grok
+Tarih: 14 Eylul 2026
+Yer: Turkiye, internetin sessiz kosesinde
